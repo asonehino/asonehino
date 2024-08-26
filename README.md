@@ -1,4 +1,4 @@
-## 반갑노 👋
+## 임베디드를 공부하고 있습니다. 👋
 
 <!--
 **asonehino/asonehino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

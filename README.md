@@ -1,4 +1,4 @@
-## 임베디드를 공부하고 있습니다. 👋
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>

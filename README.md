@@ -2,9 +2,9 @@
 <div align="center">
   <h2>🐍 welcome 🐍</h2>
   <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asonehino)](https://github.com/anuraghazra/github-readme-stats)
-출처: https://hulrud.tistory.com/3 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
   <br/><br/><br/>
 </div>
 <!--

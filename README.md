@@ -1,11 +1,11 @@
 
 <div align="center"
-  <br>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
   <h2>🐍 welcome 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
-  <br/><br/><br/>
+
 </div>
 <!--
 **asonehino/asonehino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
